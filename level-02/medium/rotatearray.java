@@ -32,7 +32,10 @@ class Solution
 }
 
 /*
+Time complexity:
 Best:O(n)	
 Average:O(n)	 
 Worst:O(n)
+Space Complexity:
+O(1)
  */
