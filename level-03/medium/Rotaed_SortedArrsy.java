@@ -37,4 +37,12 @@ class Solution {
         return -1;
     }
 }
+/*
+Time complexity:
+Best:O(1)
+Average:O(log N)
+Worst:O(log N)
+
+Space Complexity:O(1)
+*/
     
