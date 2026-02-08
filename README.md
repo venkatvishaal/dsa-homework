@@ -135,3 +135,8 @@ List of Problems Solved:
         1)ReversPolishNotation
 
         
+
+To run the code locally, use any JDK and add a main function create objects, and then run the code.
+
+
+to
